@@ -1,0 +1,19 @@
+<studenci>
+  <student ur="1988">
+    <imie_nazwisko>Kamil Weteran</imie_nazwisko>
+    <znajomy>A</znajomy>
+    <znajomy>B</znajomy>
+    <znajomy>C</znajomy>
+    <znajomy>E</znajomy>
+    <znajomy>X</znajomy>
+    <znajomy>Y</znajomy>
+  </student>
+  <student ur="1992">
+    <imie_nazwisko>Jakub Bolecki</imie_nazwisko>
+    <znajomy>A</znajomy>
+    <znajomy>B</znajomy>
+    <znajomy>C</znajomy>
+    <znajomy>D</znajomy>
+    <znajomy>E</znajomy>
+  </student>
+</studenci>

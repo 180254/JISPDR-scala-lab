@@ -1,0 +1,12 @@
+<studenci>
+  <student ur="1992">
+    <imie_nazwisko>Jan Kowalski</imie_nazwisko>
+    <znajomy>X</znajomy>
+    <znajomy>Y</znajomy>
+  </student>
+  <student ur="1994">
+    <imie_nazwisko>Marcin Woźniak</imie_nazwisko>
+    <znajomy>A</znajomy>
+    <znajomy>C</znajomy>
+  </student>
+</studenci>

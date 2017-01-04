@@ -1,0 +1,42 @@
+<studenci>
+    <student ur="1992">
+        <imie_nazwisko>Jan Kowalski</imie_nazwisko>
+        <znajomy>X</znajomy>
+        <znajomy>Y</znajomy>
+    </student>
+    <student ur="1995">
+        <imie_nazwisko>Onufry Odludek</imie_nazwisko>
+    </student>
+    <student ur="1991">
+        <imie_nazwisko>Magda Malinowska</imie_nazwisko>
+        <znajomy>X</znajomy>
+        <znajomy>Z</znajomy>
+        <znajomy>Z ZZZ</znajomy>
+    </student>
+    <student ur="1992">
+        <imie_nazwisko>Jakub Bolecki</imie_nazwisko>
+        <znajomy>A</znajomy>
+        <znajomy>B</znajomy>
+        <znajomy>C</znajomy>
+        <znajomy>D</znajomy>
+        <znajomy>E</znajomy>
+    </student>
+    <student ur="1994">
+        <imie_nazwisko>Marcin Woźniak</imie_nazwisko>
+        <znajomy>A</znajomy>
+        <znajomy>C</znajomy>
+    </student>
+    <student ur="1992">
+        <imie_nazwisko>Agnieszka Kot</imie_nazwisko>
+        <znajomy>B</znajomy>
+    </student>
+    <student ur="1988">
+        <imie_nazwisko>Kamil Weteran</imie_nazwisko>
+        <znajomy>A</znajomy>
+        <znajomy>B</znajomy>
+        <znajomy>C</znajomy>
+        <znajomy>E</znajomy>
+        <znajomy>X</znajomy>
+        <znajomy>Y</znajomy>
+    </student>
+</studenci>
